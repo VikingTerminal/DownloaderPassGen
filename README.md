@@ -1,6 +1,7 @@
-# DownloaderPassGen
-import requests
-from bs4 import BeautifulSoup
-import time
-from tqdm import tqdm
-from colorama import Fore, Style
+pip install requests
+
+pip install beautifulsoup4
+
+pip install tqdm
+
+pip install colorama
